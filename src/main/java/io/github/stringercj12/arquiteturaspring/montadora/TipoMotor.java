@@ -1,7 +1,7 @@
-package io.github.stringercj12.arquiteturaspring.montadora;
+package io.github.cursodsousa.arquiteturaspring.montadora;
 
 public enum TipoMotor {
-  ASPIRADO,
-  TURBO,
-  ELETRICO
+    ASPIRADO,
+    TURBO,
+    ELETRICO
 }
